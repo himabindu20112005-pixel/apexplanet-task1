@@ -17,6 +17,10 @@ A responsive educational landing page built using HTML, CSS, and JavaScript.
 * CSS3
 * JavaScript
 
+##  Live Website Link 
+
+https://himabindu20112005-pixel.github.io/apexplanet-task1/
+
 ## Project Preview
 
 This project was developed as Task 1 for the ApexPlanet Web Development Internship.
