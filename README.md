@@ -34,6 +34,10 @@ This project showcases a collection of 3D figurines through an attractive carous
 2. Open `index.html` in a web browser.
 3. Use the carousel controls to explore the figurines.
 
+## Live Website Link
+
+ https://himabindu20112005-pixel.github.io/apexplanet-task1/
+
 ## Internship Task
 
 Developed as Task 1 for the Web Development Internship Program at ApexPlanet Software Pvt. Ltd.
